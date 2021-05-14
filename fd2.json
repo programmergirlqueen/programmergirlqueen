@@ -1,0 +1,36 @@
+{
+	"Network": {
+		"Name": "admob",
+		"Banner": "ca-app-pub-3940256099942544/6300978111",
+		"Interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"Native": "ca-app-pub-3940256099942544/2247696110",
+		"AppId": "ca-app-pub-3940256099942544~3347511713<"
+	},
+	"Content": [{
+			"Image": "https://programmergirlqueen.github.io/fd3.jpeg",
+			"Title": "Level --1--",
+			"Description": "- A secret tune can be played on the off chance that you complete the week on ALT mode. - The Sarv Engine inside the game makes your snaps read somewhat before. Contingent upon how this is utilized, it tends to be execution harming or enhancing. - In each tune, there is a plenty of little remote notes that should be squeezed to remain alive. "
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/frd3.jpeg",
+			"Title": "ULevel --2--",
+			"Description": "- The most ideal approach to recover wellbeing is to consummate long notes. - If the beat drop design is excessively expedient, it is feasible to alter the BGM in the investigate menu or catch crush the keys- - notwithstanding, this is certainly not an ensured pass. - As referenced beforehand, retention is significant - take a gander at the Mom's examples and bolts intently."
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/fri3.jpeg",
+			"Title": "Level --3--",
+			"Description": "- Hit rehashing notes or long notes, for they offer the most HP. Hit simply a small millisecond before the bolts come to the hit bar, or land a hit right when its in the center. This requires practice, a fast eye, and it works better with more slow rates."
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/frid3.jpeg",
+			"Title": "Level --4--",
+			"Description": "- Try to keep your wellbeing 3/4s of the bar. This offers more space for botches. - Always hit long notes- - they offer the most focuses. (Rehashed notes apply to this as well.) "
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/frd3.jpeg",
+			"Title": "Level --5--",
+			"Description": "- Memorize the adversary's side. While this turns out diversely for individuals, it gives you a thought of what's in store so you don't wind up crushing keys. - Watch designs - they normally remove the most wellbeing if not hit accurately."
+		}
+
+	]
+}
