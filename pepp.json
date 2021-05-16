@@ -1,0 +1,36 @@
+{
+	"Network": {
+		"Name": "admob",
+		"Banner": "ca-app-pub-3940256099942544/6300978111",
+		"Interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"Native": "ca-app-pub-3940256099942544/2247696110",
+		"AppId": "ca-app-pub-3940256099942544~3347511713<"
+	},
+	"Content": [{
+			"Image": "https://programmergirlqueen.github.io/scr.jpg",
+			"Title": "Level --1--",
+			"Description": "-Pepi Wonder World – an imagine play game with a universe of perpetual fun and disclosures! Join your youngster on this experience, energize investigation and experimentation, and watch their creative mind unfurl!  "
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/scr.jpg",
+			"Title": "ULevel --2--",
+			"Description": "- arvel World is a novel advanced dollhouse, where many intelligent characters and things anticipate you! Find four grand island universes: Kings Castle, Witch House, Dwarf Mountain, and Dragon Playground.."
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/scr.jpg",
+			"Title": "Level --3--",
+			"Description": "- Visit all islands and have some good times along with princesses, mythical serpents, knights, and numerous other fantasy characters. Discover privileged insights rooms, replay your #1 stories, and release your creative mind – modify or make your own characters! ."
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/scr.jpg",
+			"Title": "Level --4--",
+			"Description": "- The fundamental objective of Pepi Wonder World is to move children to make and authorize their own advanced stories or entertaining situations."
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/scr.jpg",
+			"Title": "Level --5--",
+			"Description": "-We at Pepi Play have confidence in the significance of imagine mess around as it empowers youngster's social, passionate, thinking, and creative mind abilities. Every one of these impacts are fortified when playing along with your kid. Thusly, this game has upholds multitouch, giving a capacity to control various characters for numerous players without a moment's delay.."
+		}
+
+	]
+}
