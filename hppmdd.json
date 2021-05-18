@@ -1,0 +1,37 @@
+{
+	"Network": {
+		"Name": "admob",
+		"Banner": "ca-app-pub-3940256099942544/6300978111",
+		"Interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"Native": "ca-app-pub-3940256099942544/2247696110",
+		"AppId": "ca-app-pub-3940256099942544~3347511713<"
+	},
+	"Content": [{
+			"Image": "https://programmergirlqueen.github.io/scr4.png",
+			"Title": "Level --1--",
+			"Description": "- The most effective method to Install HappyMod on Android . There is just a single method to get HappyMod onto your Android gadget, and that is to introduce the APK record, similar to this:  . To start with, open Settings and go to Security on your Device . 2. Empower the Unknown Sources choice and close Settings . 3. Presently download the HappyMod APK record to your Device . 4. Open Downloads, find and tap the document and the establishment will begin . 5. At the point when the symbol appears on your home screen, HappyMod is introduced "
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/qa.png",
+			"Title": "ULevel --2--",
+			"Description": "- Instructions to Use HappyMod. HappyMod is dead easy to utilize, a lot of like the Android application store. Simply open the store from your home screen, pick a classification (see underneath), find an application, and tap to download it. A different window will show you the furthest down the line increments to the store. "
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/scr4.png",
+			"Title": "Level --3--",
+			"Description": "-HappyMod Features . Just as being totally free and not requiring you to attach your gadget to utilize it, HappyMod offers clients a huge load of other cool highlights: . Altered Games – a huge number of mods for all unique applications and games. There might be a few . forms of an application, each with an alternate arrangement of mods . ● Safe and quick downloads – all applications are infection filtered prior to being transferred to the store, and clients . get lightning-quick downloads as well . ● Support for various dialects – including conventional Chinese, improved on Chinese, Thai, Italian, . English, and some more . ● Stop/Start-pause and start your downloads as you need to 
+"
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/qa.png",
+			"Title": "Level --4--",
+			"Description": "- Fixing HappyMod Errors . HappyMod is by and large steady, however we have known about a couple of basic mistakes. Here are those blunders with their simple arrangements: . Issue Parsing the Package . The APK parser works by perusing a series of characters, digits, and images in the code. In some cases, that string can't be perused, maybe in light of the fact that the document didn't completely download, the record is bad, it isn't viable with your particular Device, and so forth, and when that occurs, the parser will hurl this mistake message. There are a couple of ways you can attempt to fix this: . Technique 1: Check Manifested HappyMod APK File "
+		},
+		{
+			"Image": "https://programmergirlqueen.github.io/scr4.png",
+			"Title": "Level --5--",
+			"Description": "- The showed record is an application document redid by you here and there, normally to eliminate advertisements from the App. On the off chance that you have modified your record in any capacity, follow these means: . On your Android gadget, open the APK document and search for a record named andriomanifest.xml . 2. Open that record and set it back to the default settings . 3. Additionally watch that you didn't change the document name in any capacity, as this can likewise cause the blunder"
+		}
+
+	]
+}
