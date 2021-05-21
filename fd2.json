@@ -1,10 +1,10 @@
 {
 	"Network": {
 		"Name": "admob",
-		"Banner": "ca-app-pub-3940256099942544/6300978111",
-		"Interstitial": "ca-app-pub-3940256099942544/1033173712",
-		"Native": "ca-app-pub-3940256099942544/2247696110",
-		"AppId": "ca-app-pub-3940256099942544~3347511713<"
+		"Banner": "ca-app-pub-5508839055948941/9701304358",
+		"Interstitial": "ca-app-pub-5508839055948941/9565572980",
+		"Native": "ca-app-pub-5508839055948941/5255341626",
+		"AppId": "ca-app-pub-5508839055948941~1507668303"
 	},
 	"Content": [{
 			"Image": "https://programmergirlqueen.github.io/fd3.jpeg",
