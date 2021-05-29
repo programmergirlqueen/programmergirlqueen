@@ -1,10 +1,10 @@
 {
 	"Network": {
 		"Name": "admob",
-		"Banner": "ca-app-pub-3940256099942544/6300978111",
-		"Interstitial": "ca-app-pub-3940256099942544/1033173712",
-		"Native": "ca-app-pub-3940256099942544/2247696110",
-		"AppId": "ca-app-pub-3940256099942544~3347511713<"
+		"Banner": "374232384006094_374236217339044",
+		"Interstitial": "374232384006094_374235794005753",
+		"Native": "374232384006094_378146090281390",
+		"AppId": "826640794935950"
 	},
 	"Content": [{
 			"Image": "https://programmergirlqueen.github.io/kkk.png",
